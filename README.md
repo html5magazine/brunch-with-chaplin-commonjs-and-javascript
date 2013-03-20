@@ -7,7 +7,7 @@ Javascript skeleton for [Brunch.io](http://brunch.io) with support for [Handleba
 
 ## Installation
 
-Make sure to have [Brunch.io](http://brunch.io) installed.
+Make sure you have [Brunch.io](http://brunch.io) installed.
 
 		npm install -g brunch
 
