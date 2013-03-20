@@ -1,4 +1,4 @@
-# Brunch with Chaplin and js
+# Brunch with Chaplin, commonjs and javascript
 ==================
 
 This is as minimal of a project as possible with brunch and Chaplin written in js.
