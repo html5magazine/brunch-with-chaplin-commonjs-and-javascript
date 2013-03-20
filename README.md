@@ -17,4 +17,4 @@ Make sure you have [Brunch.io](http://brunch.io) installed.
 
 Create project with:
 
-		brunch new <project-name> -s github://html5magazine/brunch-with-chaplin-and-js
+		brunch new <project-name> -s github://html5magazine/brunch-with-chaplin-commonjs-and-javascript
