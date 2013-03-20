@@ -11,6 +11,6 @@ Make sure to have [Brunch.io](http://brunch.io) installed.
 
 		npm install -g brunch
 
-Create your project with:
+Create project with:
 
-		brunch new <your-project-name> -s github://html5magazine/brunch-with-chaplin-and-js
+		brunch new <project-name> -s github://html5magazine/brunch-with-chaplin-and-js
