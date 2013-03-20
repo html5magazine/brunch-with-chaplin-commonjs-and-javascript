@@ -1,11 +1,11 @@
-# Brunch with Chaplin, commonjs and javascript
+# Brunch with Chaplin, CommonJS and javascript
 ==================
 
 This is as minimal of a project as possible with brunch and Chaplin written in js.
 
 No coffeescript needed.
 
-Uses [Commonjs](http://www.commonjs.org/) instead of [AMD](http://requirejs.org/).
+Uses [CommonJS](http://www.commonjs.org/) instead of [AMD](http://requirejs.org/).
 
 Javascript skeleton for [Brunch.io](http://brunch.io) with support for [Handlebars](http://handlebarsjs.com/).
 
