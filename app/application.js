@@ -36,7 +36,7 @@ var Application = Chaplin.Application.extend({
 		// if necessary:
 		// this.initRouter(routes, {pushState: false, root: '/subdir/'});
 		this.initRouter(routes);
-
+		this.startRouting();
 		// Freeze the application instance to prevent further changes.
 		if (Object.freeze)
 			Object.freeze(this);
