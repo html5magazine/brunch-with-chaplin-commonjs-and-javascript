@@ -1,8 +1,0 @@
-{
-  "framework": "jasmine",
-  "src_files": [
-    "vendor/**/*.js",
-    "app/**/*.js",
-    "test/**/*.js"
-  ]
-}
